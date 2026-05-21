@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Amit Awad 👋
 
-<!--
-**awadamit41/awadamit41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA/Test Engineer | Automation Testing | Open-Source Contributor
 
-Here are some ideas to get you started:
+I am a B.Tech Information Technology student passionate about:
+- Automation Testing
+- Selenium WebDriver
+- Open-Source Development
+- Linux Systems
+- QA Engineering
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- Python
+- Selenium WebDriver
+- TestNG
+- Git & GitHub
+- Linux / Ubuntu
+- QML
+- OpenWeather API
+
+## Featured Projects
+
+### WeatherViewer – Ubuntu Touch Weather Dashboard
+Modern weather analytics dashboard for Ubuntu Touch using QML and Python.
+
+### AI-Based Test Script Generation for Banking Login
+Automation testing project using Selenium WebDriver, TestNG, and Java.
+
+## Certifications
+- Introduction to Selenium – Coursera
+- Software Testing Foundations – LinkedIn Learning
+- Introduction to Cybersecurity – Cisco
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/amit-awad
+- GitHub: github.com/awadamit41
