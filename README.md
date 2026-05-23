@@ -7,7 +7,7 @@ I am a B.Tech Information Technology student passionate about:
 - Selenium WebDriver
 - Open-Source Development
 - Linux Systems
-- QA Engineering
+- QA Engineering 
 - Cybersecurity
 
 ## Tech Stack
