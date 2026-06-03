@@ -1,6 +1,6 @@
 # Hi, I'm Amit Awad 👋
 
-## QA/Test Engineer | Automation Testing | Open-Source Contributor
+## QA Engineer | Automation Testing | Open-Source Contributor
 
 I am a B.Tech Information Technology student passionate about:
 - Automation Testing
