@@ -6,100 +6,172 @@
   </a>
 </p>
 
-## 📌 About Me
-I'm an Information Technology student passionate about building reliable software, automating repetitive workflows, and understanding software from development through testing and deployment.
-My primary focus is Quality Assurance and Test Automation, with experience and ongoing learning across Java, Python, Selenium WebDriver, TestNG, API Testing, Git/GitHub, and Linux.
-I also enjoy building practical software projects, exploring cybersecurity and DevOps, and contributing to open-source projects.
+I'm an **Information Technology student** interested in building reliable software and understanding how systems work from development to testing and deployment.
 
+My primary focus is **Quality Assurance and Test Automation**, with hands-on experience and learning across **Java, Python, Selenium WebDriver, TestNG, API testing, Git/GitHub, Linux, and DevOps**.
 
-## 🧠 My Focus Areas
-- 🧪 Focused on Quality Assurance & Test Automation
-- ☕ Working with Java, Selenium WebDriver & TestNG
-- 🌐 Exploring REST APIs & API Testing
-- 🐧 Learning and working with Linux
-- 🔐 Interested in Cybersecurity
-- 🤝 Open to open-source contributions and collaborations
+Alongside testing, I enjoy building software projects, experimenting with automation, exploring cybersecurity, and contributing to open-source projects.
 
+> **I don't just want to build software that works — I want to build software that can be trusted.**
 
-## 📊 GitHub Stats & Trophies
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 Information Technology student
+* 🧪 Focused on **QA, Software Testing & Test Automation**
+* 🤖 Building automation with **Java, Selenium & TestNG**
+* 🐍 Using **Python** for automation, tooling and experimentation
+* 🌐 Exploring **REST APIs & API Testing**
+* 🐧 Learning and working with **Linux**
+* ⚙️ Exploring **DevOps, CI/CD & software delivery**
+* 🔐 Interested in **Cybersecurity & secure software development**
+* 🌱 Currently improving my software engineering and automation skills
+* 🤝 Open to **open-source contributions, collaborations and interesting projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🧪 Testing & Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge\&logo=testng\&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6B35?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### 🚀 Currently Exploring
+
+`CI/CD` • `DevOps` • `Cybersecurity` • `API Automation` • `Open Source` • `Software Architecture`
+
+---
+
+## 🚀 What I'm Working On
+
+### 🧪 Test Automation
+
+Building automated testing workflows with:
+
+* Selenium WebDriver
+* Java
+* TestNG
+* Page Object Model
+* Functional & regression testing
+* API testing
+* Test reporting
+
+### 🛠️ Developer Projects
+
+I also build practical software projects that combine automation, web technologies and developer tooling.
+
+I'm particularly interested in projects that solve real problems rather than simply demonstrating a technology.
+
+### 🌐 Open Source
+
+I'm actively learning how to contribute effectively to open-source projects through:
+
+* Issues
+* Pull requests
+* Documentation
+* Testing
+* Bug fixes
+* Developer tooling
+
+---
+
+## 📌 Featured Projects
+
+> I'm continuously building and improving projects across software testing, automation, web development and developer tooling.
+
+### 🔍 Social Media Account Hygiene Automation
+
+An automation-focused project designed to help manage and maintain social-media account activity through automated workflows.
+
+**Focus:** Automation • Browser Automation • Python • Software Engineering
+
+### 🌐 Personal Portfolio
+
+A modern developer portfolio designed to showcase my projects, technical skills and engineering work.
+
+**Focus:** TypeScript • React • Web Development • UI/UX
+
+### 🧪 QA & Automation Projects
+
+A collection of testing experiments and automation projects covering browser automation, functional testing and API testing.
+
+**Focus:** Java • Selenium • TestNG • API Testing
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <a href="https://github.com/awadamit41">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awadamit41&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="awadamit41's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=awadamit41&theme=dark&hide_border=true&cache_seconds=86400" alt="awadamit41's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=awadamit41&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Amit Awad's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=awadamit41&theme=dark&radius=10" alt="awadamit41's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awadamit41&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadamit41&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/awadamit41">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awadamit41&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=awadamit41&theme=dark&hide_border=true" />
 </p>
 
-## 🔗 Connect with Me
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-awad-7a05b72a2/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Amit Awad's LinkedIn"/></a>
-  <a href="mailto:amit41thinkpad@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Amit Awad's Email"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awadamit41&theme=github-dark&hide_border=true" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+---
 
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/amit-awad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:amit41thinkpad@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/awad.amit41">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Engineering Philosophy
+
+> **Learn → Build → Test → Break → Fix → Improve**
+
+I believe the best way to learn software engineering is to build real things, intentionally break them, understand why they failed, and make them better.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awadamit41&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
 
