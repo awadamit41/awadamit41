@@ -121,12 +121,11 @@ A collection of testing experiments and automation projects covering browser aut
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awadamit41&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadamit41&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="./profile/stats.svg" width="850" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=awadamit41&theme=dark&hide_border=true" />
+  <img src="./profile/streak.svg" width="850" alt="Contribution Streak" />
 </p>
 
 ---
@@ -134,9 +133,8 @@ A collection of testing experiments and automation projects covering browser aut
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awadamit41&theme=github-dark&hide_border=true" />
+  <img src="./profile/activity.svg" width="850" alt="Contribution Activity" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
