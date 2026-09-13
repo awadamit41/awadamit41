@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="900" height="260" viewBox="0 0 900 260">
+    <rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+    <text x="55" y="42"
+      font-family="Arial, sans-serif"
+      font-size="24"
+      font-weight="bold"
+      fill="#ffffff">Contribution Streak</text>
+    <text x="55" y="75" font-family="Arial, sans-serif" font-size="18" fill="#c9d1d9">Current Streak</text><text x="500" y="75" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#58a6ff">4 days</text><text x="55" y="109" font-family="Arial, sans-serif" font-size="18" fill="#c9d1d9">Longest Streak</text><text x="500" y="109" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#58a6ff">5 days</text><text x="55" y="143" font-family="Arial, sans-serif" font-size="18" fill="#c9d1d9">Total Contributions</text><text x="500" y="143" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#58a6ff">95</text>
+    </svg>
