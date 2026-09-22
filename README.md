@@ -20,21 +20,21 @@ My primary focus is **Quality Assurance and Test Automation**, with hands-on exp
 
 Alongside testing, I enjoy building practical software projects, experimenting with automation, exploring cybersecurity, and contributing to open-source projects.
 
-> **I don't just want to build software that works — I want to build software that can be trusted.**
+> **I don't just want to build software that works - I want to build software that can be trusted.**
 
 ---
 
 ## 🧑‍💻 What I Do
 
-- 🧪 **QA & Test Automation** — designing reliable automated testing workflows
-- 🤖 **Browser Automation** — Selenium WebDriver, Java & TestNG
-- 🌐 **API Testing** — REST APIs, functional testing & validation
-- 🐍 **Python Development** — automation, tooling & experimentation
-- ⚙️ **DevOps & CI/CD** — learning modern software delivery practices
-- 🐧 **Linux** — development, automation & system fundamentals
-- 🔐 **Cybersecurity** — exploring secure software development
-- 🌐 **Web Development** — building practical software projects
-- 🤝 **Open Source** — issues, testing, documentation, pull requests & bug fixes
+- 🧪 **QA & Test Automation** - designing reliable automated testing workflows
+- 🤖 **Browser Automation** - Selenium WebDriver, Java & TestNG
+- 🌐 **API Testing** - REST APIs, functional testing & validation
+- 🐍 **Python Development** - automation, tooling & experimentation
+- ⚙️ **DevOps & CI/CD** - learning modern software delivery practices
+- 🐧 **Linux** - development, automation & system fundamentals
+- 🔐 **Cybersecurity** - exploring secure software development
+- 🌐 **Web Development** - building practical software projects
+- 🤝 **Open Source** - issues, testing, documentation, pull requests & bug fixes
 
 ---
 
