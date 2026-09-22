@@ -56,7 +56,7 @@ Alongside testing, I enjoy building practical software projects, experimenting w
 ### 🧪 Testing & Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Test_NG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6B35?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
