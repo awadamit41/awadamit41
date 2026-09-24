@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineering • QA • Testing • Automation</b>
+  <b>Software Engineering • QA • Automation</b>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Alongside testing, I enjoy building practical software projects, experimenting w
 ### 🧪 Testing & Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Test_NG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Test NG](https://img.shields.io/badge/Test_NG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6B35?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
@@ -137,11 +137,11 @@ A collection of testing experiments and automation projects covering browser aut
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" width="850" alt="GitHub Statistics" />
+  <img src="./profile/stats.svg" width="800" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" width="850" alt="Contribution Streak" />
+  <img src="./profile/streak.svg" width="800" alt="Contribution Streak" />
 </p>
 
 ---
@@ -149,11 +149,11 @@ A collection of testing experiments and automation projects covering browser aut
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity.svg" width="850" alt="Contribution Activity" />
+  <img src="./profile/activity.svg" width="800" alt="Contribution Activity" />
 </p>
 
 <p align="center">
-  <img src="./profile-3d-city.svg" width="850" alt="Contribution Calendar" />
+  <img src="./profile-3d-city.svg" width="700" alt="Contribution Calendar" />
 </p>
 
 ---
