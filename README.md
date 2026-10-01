@@ -99,17 +99,6 @@ Building practical software projects that combine:
 
 I prefer projects that solve **real problems** rather than simply demonstrating a technology.
 
-### 🌐 Open Source
-
-Continuously improving my open-source workflow through:
-
-- Issues
-- Pull requests
-- Documentation
-- Testing
-- Bug fixes
-- Developer tooling
-
 ---
 
 ## 📌 Featured Projects
