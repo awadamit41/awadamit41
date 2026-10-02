@@ -73,37 +73,9 @@ Alongside testing, I enjoy building practical software projects, experimenting w
 
 ---
 
-## 🚀 What I'm Working On
-
-### 🧪 Test Automation
-
-Building automated testing workflows using:
-
-- Selenium WebDriver
-- Java
-- TestNG
-- Page Object Model
-- Functional & regression testing
-- API testing
-- Test reporting
-
-### 🛠️ Software Projects
-
-Building practical software projects that combine:
-
-- Automation
-- Web technologies
-- Developer tooling
-- Software engineering
-- Testing
-
-I prefer projects that solve **real problems** rather than simply demonstrating a technology.
-
----
-
 ## 📌 Featured Projects
 
-### 🔍 Social Media Account Hygiene Automation
+### 🔍 ig Block Automation Pipeline 
 
 An automation-focused project designed to help manage and maintain social-media account activity through automated workflows.
 
