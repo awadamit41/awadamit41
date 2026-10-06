@@ -87,12 +87,6 @@ A modern developer portfolio designed to showcase projects, technical skills and
 
 **Focus:** TypeScript • React • Web Development • UI/UX
 
-### 🧪 QA & Automation Projects
-
-A collection of testing experiments and automation projects covering browser automation, functional testing and API testing.
-
-**Focus:** Java • Selenium • TestNG • API Testing
-
 ---
 
 ## 📊 GitHub Statistics
