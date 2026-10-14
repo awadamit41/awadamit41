@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineering • QA • Automation</b>
+  <b>Software Engineer • Automation</b>
 </p>
 
 ---
