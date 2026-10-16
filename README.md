@@ -28,9 +28,7 @@ Alongside testing, I enjoy building practical software projects, experimenting w
 
 - 🧪 **QA & Test Automation** - designing reliable automated testing workflows
 - 🤖 **Browser Automation** - Selenium WebDriver, Java & TestNG
-- 🌐 **API Testing** - REST APIs, functional testing & validation
 - 🐍 **Python Development** - automation, tooling & experimentation
-- ⚙️ **DevOps & CI/CD** - learning modern software delivery practices
 - 🐧 **Linux** - development, automation & system fundamentals
 - 🔐 **Cybersecurity** - exploring secure software development
 - 🌐 **Web Development** - building practical software projects
